@@ -1,1 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
 .env
+venv/
+.envrc
+*.env
+
+# Conda
+*.conda
+*.ipynb_checkpoints
+*.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
